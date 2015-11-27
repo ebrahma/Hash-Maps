@@ -1,0 +1,1 @@
+HashMap226LP.kava is my hash map implementation of the HashMap226.java interface. This hash map implementation uses linear probing for collision resolution. The hash table is rehashed when the current capacity exceeds the specified load factor in order to maintain efficiency. A test file, HashMap226Test.java, is included in order to test my implementation.
